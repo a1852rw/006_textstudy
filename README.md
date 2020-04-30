@@ -10,6 +10,7 @@
 - 出版社： KADOKAWA
 - 出版年月日：2017/4/14
 - 学習期間：2020/4/30～
+- 購入元：[https://amzn.to/2VSTIGR](https://amzn.to/2VSTIGR)
 
 プログラミングの入門編としてHTML/CSS/Java Scriptなどを取り扱います。  
 
