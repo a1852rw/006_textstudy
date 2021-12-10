@@ -18,3 +18,18 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
     - [http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_Overview__Version2019.J02.pdf](http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_Overview__Version2019.J02.pdf)
 - ISTQBテスト技術者資格制度 Advanced Level シラバス 日本語版 テストアナリスト Version3.1.0 リリースノート
     - [http://jstqb.jp/dl/JSTQB-ALTA_Release-Notes_V3.1J.pdf](http://jstqb.jp/dl/JSTQB-ALTA_Release-Notes_V3.1J.pdf)
+
+## JSTQB ALTAのシラバス構成を整理
+### 章立て
+シラバスの章立ておよび各章の内容は以下となっている。
+
+1. テストプロセスにおけるテストアナリストのタスク
+2. リスクベースドテストにおけるテストアナリストのタスク
+3. テスト技法
+
+
+4. ソフトウェア品質特性のテスト
+5. レビュー
+6. テストツールおよび自動化
+7. 参考文献
+
