@@ -140,7 +140,7 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 
 テストアナリストがテスト分析を効果的に進めるためには、作業の開始前に以下開始基準が満たされていることを確認する必要がある。
 
-- テストベースとなりうる知識体系が存在する (詳しくは[JSTQBファウンデーションレベル 1.4.2/2.2 または テストベースとなりうる情報源一覧](JSTQB_ALTA_Refarences_001_JSTQBFL_testbase.md)を参照)
-- 
-
+- テストベースとなりうる知識体系が存在する (詳しくは[JSTQB FLシラバス 1.4.2章/2.2章](JSTQB_ALTA_Refarences_001_JSTQBFL_testbase.md)を参照)
+    - 注1：[JSTQB FL 1.4.2章](JSTQB_ALTA_Refarences_001_JSTQBFL_testbase.md#jstqbfl-142%E7%AB%A0%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E6%B4%BB%E5%8B%95%E3%81%A8%E3%82%BF%E3%82%B9%E3%82%AF-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9p20)に若干のテストベースについての説明がある
+    - 注2：[JSTQB FL 2.2章](JSTQB_ALTA_Refarences_001_JSTQBFL_testbase.md#jstqbfl-22%E7%AB%A0-%E3%83%86%E3%82%B9%E3%83%88%E3%83%AC%E3%83%99%E3%83%AB-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9p31)にテストレベルごとにテストベースの説明がある
 
