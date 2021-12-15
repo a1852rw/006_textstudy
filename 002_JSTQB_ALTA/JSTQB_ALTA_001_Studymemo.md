@@ -8,6 +8,7 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 
 - ISTQBテスト技術者資格制度Advanced Level シラバス 日本語版 テストアナリスト Version 3.1.1.J03
     - [http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_V311.J03.pdf](http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_V311.J03.pdf)
+    - 配布元：JSTQBホームページ [シラバス掲載ページ](http://jstqb.jp/syllabus.html)
 
 ### その他参考資料
 シラバスに関連する資料その他情報源として以下がある。
@@ -164,4 +165,5 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 <細かいため記載を省略する。>  
   
 #### 1.5 テスト実装 (シラバスP21)
+
 
