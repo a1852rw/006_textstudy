@@ -7,7 +7,7 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 当記事は以下に掲載されているシラバスを底本とし、関連する情報を取りまとめ作成している。
 
 - ISTQBテスト技術者資格制度Advanced Level シラバス 日本語版 テストアナリスト Version 3.1.1.J03
-    - [http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_V311.J03.pdf](http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_V311.J03.pdf)
+    - [http://jstqb.jp/syllabus.html#syllabus_advanced_altta](http://jstqb.jp/syllabus.html#syllabus_advanced_altta)
     - 配布元：JSTQBホームページ [シラバス掲載ページ](http://jstqb.jp/syllabus.html)
 
 ### その他参考資料
@@ -16,9 +16,13 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 - 新シラバス対応 JSTQB Advanced Level(テストマネージャ)資格試験説明会
     - [https://youtu.be/f36Wg6IMFBA](https://youtu.be/f36Wg6IMFBA)
 - ISTQBテスト技術者資格制度 Advanced Level シラバス 日本語版 概要 テストアナリスト テクニカルテストアナリスト Version 2019.J02
-    - [http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_Overview__Version2019.J02.pdf](http://jstqb.jp/dl/jstqb.jpdlJSTQB-SyllabusALTA_Overview__Version2019.J02.pdf)
+    - [http://jstqb.jp/syllabus.html#syllabus_advanced_altta](http://jstqb.jp/syllabus.html#syllabus_advanced_altta)
 - ISTQBテスト技術者資格制度 Advanced Level シラバス 日本語版 テストアナリスト Version3.1.0 リリースノート
-    - [http://jstqb.jp/dl/JSTQB-ALTA_Release-Notes_V3.1J.pdf](http://jstqb.jp/dl/JSTQB-ALTA_Release-Notes_V3.1J.pdf)
+    - [http://jstqb.jp/syllabus.html#syllabus_advanced_altta](http://jstqb.jp/syllabus.html#syllabus_advanced_altta)
+
+また、「JSTQB AL TAシラバス」を理解するためには、「JSTQB FL シラバス」と「JSTQB FL アジャイルテスト担当者 シラバス」の両方を把握する必要がある。
+シラバス内に「アジャイル開発の場合は～」と説明されている箇所が多数あるため、特にアジャイルテスト担当者のシラバスを前提知識として読み込んでおかねばならないと思われる。  
+※2021/12現在、日本国内でアジャイルテスト担当者の試験は行われていない。理不尽だと思う。  
 
 ## JSTQB ALTAのシラバス構成を整理
 ### 章立て
