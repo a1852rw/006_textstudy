@@ -363,3 +363,7 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
     - [https://www.know-net.co.jp/blog/tech_wg/?p=199](https://www.know-net.co.jp/blog/tech_wg/?p=199)
 - ブログ「riririusei99’s blog」内記事「JSTQBテストアナリストの勉強方法を書いてみる。」(2019/4/7)
     - [https://riririusei99.hatenadiary.jp/entry/2019/04/07/150515](https://riririusei99.hatenadiary.jp/entry/2019/04/07/150515)
+- ブログ「エンジニアの日記」内記事「JSTQB AL テストアナリスト 受験振り返り」(2020/2/11)
+    - [https://mwakizaka.sakura.ne.jp/wordpress/2020/02/11/jstqb-al-%E3%83%86%E3%82%B9%E3%83%88%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88-%E5%8F%97%E9%A8%93%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/](https://mwakizaka.sakura.ne.jp/wordpress/2020/02/11/jstqb-al-%E3%83%86%E3%82%B9%E3%83%88%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88-%E5%8F%97%E9%A8%93%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A/)
+- Togetter「試験に出ないJSTQB　FL・AL」(2016/5/27)
+    - [https://togetter.com/li/980107](https://togetter.com/li/980107)
