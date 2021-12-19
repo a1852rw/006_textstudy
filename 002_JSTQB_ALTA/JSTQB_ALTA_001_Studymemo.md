@@ -350,3 +350,16 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 
 ### 5.レビュー
 ### 6.テストツールおよび自動化
+
+## メモ欄
+以下にJSTQB AL TA試験の参考になると思われるブログ記事等をリストアップした。  
+後程内容を確認し整理する。  
+
+- githubリポジトリ「JSTQB®非認定 Advanced Level テストアナリスト ソフトウェアテスト問題集 サポートページ」
+    - [https://github.com/learnerjstqb/alta_workbook_support](https://github.com/learnerjstqb/alta_workbook_support)
+- ブログ「私は迷いの中にいる 毎日眠気しかない謎の深海魚の一言日記」内記事 「「テストアナリスト　対策」でぐぐる」(2019/10/2 )
+    - [https://tunamagro58795.hateblo.jp/entry/2019/10/02/001847](https://tunamagro58795.hateblo.jp/entry/2019/10/02/001847)
+- ブログ「日本ナレッジ技術WGのブログ」内記事 「【JSTQB TestAnalyst】勉強会の進め方の例」(2016/4/12)
+    - [https://www.know-net.co.jp/blog/tech_wg/?p=199](https://www.know-net.co.jp/blog/tech_wg/?p=199)
+- ブログ「riririusei99’s blog」内記事「JSTQBテストアナリストの勉強方法を書いてみる。」(2019/4/7)
+    - [https://riririusei99.hatenadiary.jp/entry/2019/04/07/150515](https://riririusei99.hatenadiary.jp/entry/2019/04/07/150515)
