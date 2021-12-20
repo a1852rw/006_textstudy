@@ -1,4 +1,4 @@
-<head><title>hello PHP</title>
+<head><title>chapter01_q05_hello</title>
 </head>
 
 <body>
