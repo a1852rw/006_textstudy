@@ -20,3 +20,13 @@
 - 発行年月日：2021/8/10
 - 学習期間：2021/12/10～
 - 配布元：JSTQBホームページ [シラバス掲載ページ]](http://jstqb.jp/syllabus.html)
+
+### 3.徹底攻略PHP7技術者認定[初級]試験問題集
+- 保存先：[https://github.com/a1852rw/006_textstudy/tree/master/003_PHP7_exam_impress](https://github.com/a1852rw/006_textstudy/tree/master/003_PHP7_exam_impress)
+- 書名：徹底攻略PHP7技術者認定[初級]試験問題集
+- 出版社：株式会社インプレス
+- 出版年月日：2019/7/22
+- 学習期間：2021/11/某日(忘れた)～
+- 購入元：[https://www.amazon.co.jp/dp/4295006645/](https://www.amazon.co.jp/dp/4295006645/)
+
+PHP技術者認定試験初級の認定教材です。ここでは、コードや関数の動作を見るために使います。
