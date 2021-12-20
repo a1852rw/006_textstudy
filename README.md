@@ -19,7 +19,7 @@
 - 書名：JSTQB Advanced Level シラバス日本語版 テストアナリスト Version 3.1.1.J02
 - 発行年月日：2021/8/10
 - 学習期間：2021/12/10～
-- 配布元：JSTQBホームページ [シラバス掲載ページ]](http://jstqb.jp/syllabus.html)
+- 配布元：JSTQBホームページ [シラバス掲載ページ](http://jstqb.jp/syllabus.html)
 
 ### 3.徹底攻略PHP7技術者認定[初級]試験問題集
 - 保存先：[https://github.com/a1852rw/006_textstudy/tree/master/003_PHP7_exam_impress](https://github.com/a1852rw/006_textstudy/tree/master/003_PHP7_exam_impress)
