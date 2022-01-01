@@ -624,8 +624,21 @@ JSTQB AL TAシラバスでは、レビュー技法として「チェックリス
 テストツールを使用することで、コストを削減しながらカバレッジを上げることができる。
 
 
-## メモ欄
-以下にJSTQB AL TA試験の参考になると思われるブログ記事等をリストアップした。  
+## 参考ページ/参考資料/教材等
+### 参考資料(教材)
+以下に、JSTQB AL TA試験の参考になる資料や教材をリストアップした。
+
+- BOOTH：JSTQB Advanced Level 非公式問題集
+    - [https://learner-jstqb-al.booth.pm/](https://learner-jstqb-al.booth.pm/)
+    - 技術書典でJSTQBの問題集を販売していたサークルのページ。書籍形式でALの問題集を出しているのはここのみと思われる。
+- Qbook：JSTQB® Advanced Level テストアナリスト(AL TA)資格 試験対策講座｜eラーニング講座
+    - [https://www.qbook.jp/event/20211216_1284.html](https://www.qbook.jp/event/20211216_1284.html)
+    - バルテス社のサイトQbook上で公開されているe-Learning講座の紹介ページ。
+    - お値段は29,800円(税込)、受験料より高い。
+    
+
+### 参考ページ
+以下に、JSTQB AL TA試験の参考になると思われるブログ記事や参考資料をリストアップした。  
 
 - githubリポジトリ「JSTQB®非認定 Advanced Level テストアナリスト ソフトウェアテスト問題集 サポートページ」
     - [https://github.com/learnerjstqb/alta_workbook_support](https://github.com/learnerjstqb/alta_workbook_support)
