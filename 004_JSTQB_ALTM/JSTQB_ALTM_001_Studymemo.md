@@ -1,4 +1,4 @@
-# JSTQB Advanced Level Test Analyst 学習要項
+# JSTQB Advanced Level Test Manager 学習要項
 ## 方針
 JSTQBシラバス日本語版をもとに学習を進める。テスト技法の詳細はシラバス上では記載が省略されており、参考図書を参照とされている。そのため、当ディレクトリ内で対象のテスト技法をまとめることで学習の資料を作成、学習を進める方針とする。
 
