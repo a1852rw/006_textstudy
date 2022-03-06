@@ -9,16 +9,14 @@
 - 書名：高校生からはじめるプログラミング
 - 出版社： KADOKAWA
 - 出版年月日：2017/4/14
-- 学習期間：2020/4/30～
 - 購入元：[https://amzn.to/2VSTIGR](https://amzn.to/2VSTIGR)
 
 プログラミングの入門編としてHTML/CSS/Java Scriptなどを取り扱います。  
 
 ### 2.JSTQB Advanced Level シラバス日本語版 テストアナリスト
-- 保存先；[002_JSTQB_ALTA](https://github.com/a1852rw/006_textstudy/tree/master/002_JSTQB_ALTA)
+- 保存先：[002_JSTQB_ALTA](https://github.com/a1852rw/006_textstudy/tree/master/002_JSTQB_ALTA)
 - 書名：JSTQB Advanced Level シラバス日本語版 テストアナリスト Version 3.1.1.J02
 - 発行年月日：2021/8/10
-- 学習期間：2021/12/10～
 - 配布元：JSTQBホームページ [シラバス掲載ページ](http://jstqb.jp/syllabus.html)
 
 ### 3.徹底攻略PHP7技術者認定[初級]試験問題集
@@ -26,11 +24,13 @@
 - 書名：徹底攻略PHP7技術者認定[初級]試験問題集
 - 出版社：株式会社インプレス
 - 出版年月日：2019/7/22
-- 学習期間：2021/11/某日(忘れた)～2021/12/26 
 - 購入元：[https://www.amazon.co.jp/dp/4295006645/](https://www.amazon.co.jp/dp/4295006645/)
 
 PHP技術者認定試験初級の認定教材です。ここでは、コードや関数の動作を見るために使います。  
 無事合格したのでここでファイル作成を完了。以降は別の参考書を使うため更新しない。  
 
-
-
+### 4.JSTQB Advanced Level シラバス日本語版 テストマネージャ
+- 保存先：[004_JSTQB_ALTM](https://github.com/a1852rw/006_textstudy/tree/master/004_JSTQB_ALTM)
+- 書名：JSTQB Advanced Level シラバス日本語版 テストマネージャ Version 2012.J04
+- 発行年月日：2021/2/19
+- 配布元：JSTQBホームページ [シラバス掲載ページ](http://jstqb.jp/syllabus.html)
