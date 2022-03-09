@@ -236,7 +236,7 @@ JSTQB Advanced Level Test Managerの出題および配点は、ISTQB Exam Struct
 | **合計** |  | **66問** | **112点** |
 
 &nbsp;
-  
+
 ### 配点表からやらなくてよい項目を選定
 やらなくて良い項目を章番号で選定した。以下は配点が極端に少なく、全問不正解であったとしても、その他の章で挽回することが十分可能である。  
   
@@ -246,7 +246,7 @@ JSTQB Advanced Level Test Managerの出題および配点は、ISTQB Exam Struct
 - 4章：欠陥マネジメント
 - 5章：テストプロセスの改善
 - 6章：テストツ―ルおよび自動化
-  
+
 &nbsp;
 
 ## 各章の概要をとりまとめ  <取り合えず出そうなとこを書き出す>
@@ -256,9 +256,9 @@ JSTQB Advanced Level Test Managerの出題および配点は、ISTQB Exam Struct
     - 合格点：73点 (上記より算出)
 - 受験資格：JSTQB Foundation Level合格者であること
 - 試験時間：180分間 (JSTQB HPより)
-  
+
 &nbsp;
-    
+  
 ### 1.テストプロセス (P8)
 #### 1.2. テストの計画作業、モニタリング、およびコントロール
 ##### 1.2.1 テストの計画作業
@@ -269,9 +269,9 @@ JSTQB Advanced Level Test Managerの出題および配点は、ISTQB Exam Struct
   
 図解すると以下の通りとなる。
 
-<div style="text-align:center;">
+<p align="center">
 <img src="./001_images/image_ALTM_1.2.1_001.png" width="600">
-</div>
+</p>
 
 &nbsp;
     
