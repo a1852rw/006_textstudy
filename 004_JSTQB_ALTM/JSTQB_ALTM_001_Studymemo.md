@@ -568,3 +568,6 @@ TM-7.6.1 (K2：理解) 配点：1点(予測)
 
 - Togetter「試験に出ないJSTQB　FL・AL」(2016/5/27)
     - [https://togetter.com/li/980107](https://togetter.com/li/980107)
+
+
+てすと
