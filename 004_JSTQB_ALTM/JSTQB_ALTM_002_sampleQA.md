@@ -195,7 +195,7 @@ b,e
 
 --- 
 
-## 問7：TM-1.7.1 (配点 1点)
+### 問7：TM-1.7.1 (配点 1点)
 #### 質問
 単体テスト実行時のテスト進捗報告書に記載する指標として、最も適切なものはどれか。
 
@@ -210,6 +210,23 @@ b,e
 
 #### 正解
 b,e
+
+--- 
+
+### 問8：TM-1.8.1 (配点 1点)
+#### 質問
+Which of the following is an accurate summary of the test closure activity “test completion check”?
+
+- a) Test completion check ensures that all test work is concluded as planned
+- b) Test completion check ensures that all important lessons learned are documented
+- c) Test completion check ensures that all test work products are stored in the configuration management system
+- d) Test completion check ensures that plans are established to ensure that good practices can be repeated
+
+Select ONE option.
+
+
+#### 正解
+a
 
 --- 
 
