@@ -899,7 +899,7 @@ a
 この図は不完全な欠陥管理プロセスを示しており、3つの状態（状態X、Y、Z）にはまだ適切な名前が付けられていない。
   
 <p align="center">
-<img src="./001_images/image_ALTM_sampleQA1_Q36" width="700">
+<img src="./001_images/image_ALTM_sampleQA1_Q36.png" width="700">
 </p>
   
 このプロセスを正しく完成させるのは次のうちどれでしょうか？
