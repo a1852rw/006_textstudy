@@ -161,10 +161,10 @@ d) 正しくありません。要件はプロジェクトマネジメントの�
 b
 
 #### 解説
-a) Is not correct. Some non-functional risks may be mitigated early, but some may be mitigated later in the life cycle
-b) Is correct. From the syllabus
-c) Is not correct. Only some test planning can be delegated to both TAs and TTAs
-d) Is not correct. All non-functional testing does not have to follow functional testing (but it should be based on perceived risks)
+a) 正しくありません。非機能リスクの中には、早期に軽減できるものもあるが、ライフサイクルの後半に軽減できるものもある
+b) 正しい。シラバスより
+c) 正しくありません。TAとTTAの両方に委ねられるテスト計画は一部だけである
+d) 正しくありません。すべての非機能テストは機能テストに従う必要はない（ただし、認識されたリスクに基づいて行う必要がある）
 
 ---
 
@@ -173,10 +173,10 @@ d) Is not correct. All non-functional testing does not have to follow functional
 d
 
 #### 解説
-a) Is not correct. Testing measures quality – it does not improve it (subsequent debugging would do)
-b) Is not correct. There is no correlation between risk types (although these are both the same risk type) and functional/non-functional testing
-c) Is not correct. Project risks do help determine which test levels, but so do product risks
-d) Is correct. From syllabus
+a) 正しくありません。テストは品質を測定するものであり、品質を向上させるものではありません（その後のデバッグは可能です）。
+b) 正しくありません。リスクタイプ（これらは両方とも同じリスクタイプであるが）と機能/非機能テストとの間には相関がない
+c) 正しくありません。プロジェクトリスクは、どのテストレベルを決定するのに役立つが、製品リスクも同じである。
+d) 正しい。シラバスより
 
 --- 
 
@@ -185,10 +185,10 @@ d) Is correct. From syllabus
 c
 
 #### 解説
-a) Is not correct. These are the four activities in risk-based testing
-b) Is not correct. These are techniques for risk identification, which is only part of the analysis process
-c) Is correct. As these are four of the eight different techniques given in the syllabus
-d) Is not correct. This is one of the factors influencing the likelihood of a risk item
+a) 正しくありません。これらはリスクベースドテストの4つの活動である
+b) 正しくありません。これらはリスク識別のための技術であり、分析プロセスの一部に過ぎない
+c) 正しい。これらはシラバスで示された8種類の技法のうちの4つであるため
+d) 正しくありません。これは、リスク項目の可能性に影響を与える要因の一つです。
 
 ---
 
@@ -197,11 +197,11 @@ d) Is not correct. This is one of the factors influencing the likelihood of a ri
 c,e
 
 #### 解説
-a) Is not correct. Is a project risk (and a very real one for any start-up)
-b) Is not correct. Is a project risk, not a quality risk, and it is also of vanishingly small likelihood given the amazing range of options available in the cloud computing retail market?
-c) Is correct. Calculating loyalty points is a function of the system and functional accuracy is a quality sub-characteristic
-d) Is not correct. Is definitely a risk, but it’s not related to the quality of the system, but rather due to the discounts being offered; specifically, it’s an operational risk that can arise after release
-e) Is correct. We are promising high reliability and reliability is a quality characteristic
+a) 正しくありません。プロジェクトのリスクである（そして、どんな新興企業にとっても非常に現実的なものである）。
+b) 正しくありません。プロジェクトリスクであり、品質リスクではない。また、クラウドコンピューティングの小売市場で利用可能なオプションの驚くべき範囲を考えると、その可能性は非常に小さい？
+c) 正しい。ポイント計算はシステムの機能であり、機能的な正確さは品質の副特性である。
+d) 正しくはない。確かにリスクはあるが、それはシステムの品質とは関係なく、むしろ提供される割引によるもので、具体的にはリリース後に発生しうる運用上のリスクである
+e) 正しい。高い信頼性を約束しているのであり、信頼性は品質特性である
 
 ---
 
@@ -210,10 +210,10 @@ e) Is correct. We are promising high reliability and reliability is a quality ch
 a
 
 #### 解説
-a) Is correct. We always want test effectiveness (e.g., ability to detect defects) to be high no matter what level of risk is being mitigated
-b) Is not correct. From syllabus
-c) Is not correct. From syllabus
-d) Is not correct. From syllabus
+a) その通りです。どのようなレベルのリスクが軽減されていても、テストの有効性（欠陥の検出能力など）は常に高くありたいものである
+b) 正しくありません。シラバスより
+c) 正しくありません。シラバスより
+d) 正しくありません。シラバスより
 
 ---
 
@@ -222,10 +222,10 @@ d) Is not correct. From syllabus
 b 
 
 #### 解説
-a) Is not correct. From syllabus
-b) Is correct. We do not want to leave all prioritization and effort allocation to individual testers, and also discovery of defects can only occur after testing (and so some prioritization and effort allocation) has already started
-c) Is not correct. From syllabus
-d) Is not correct. From syllabus
+a) 正しくありません。シラバスより
+b) 正しい。優先順位付けや労力配分をすべてテスター個人に任せたくはないし、不具合の発見もテスト（つまり優先順位付けや労力配分）がすでに始まってからでないと起こり得ない
+c) 正しくありません。シラバスより
+d) 正しくありません。シラバスより
 
 ---
 
@@ -234,10 +234,10 @@ d) Is not correct. From syllabus
 b
 
 #### 解説
-a) Is not correct. For the reasons stated for the correct answer
-b) Is correct. For a mature application, the main mission of testing is really building confidence that the application continues to work properly. Automated regression testing helps achieve that efficiently, so the test process improvement and the application are aligned. While the idea of automating the regression testing for this mature application is a good one, automation does not tend to find many defects. So, the mission statement is not aligned with the test process improvement, or with the real test needs of a mature application
-c) Is not correct. For the reasons stated for the correct answer
-d) Is not correct. For the reasons stated for the correct answer
+a) 正しくありません。正解に記載されている理由により
+b) 正しいです。成熟したアプリケーションでは、テストの主な使命は、アプリケーションが適切に動作し続けるという信頼を築くことです。自動化された回帰テストは、それを効率的に達成するのに役立ち、テストプロセスの改善とアプリケーションは整合しています。この成熟したアプリケーションの回帰テストを自動化するというアイデアは良いものですが、自動化は多くの不具合を発見するわけではありません。したがって、ミッションステートメントは、テストプロセスの改善や、成熟したアプリケーションの実際のテストニーズと一致していません。
+c) 正しくありません。正解に記載されている理由から
+d) 正しくありません。正解に記載されている理由から
 
 
 --- 
@@ -247,10 +247,10 @@ d) Is not correct. For the reasons stated for the correct answer
 c
 
 #### 解説
-a) Is not correct. Problems with test environment readiness are classic test-related project risks
-b) Is not correct. Problems with test staff availability and qualification are classic test-related project risks
-c) Is correct. While this is a significant project risk, it is not a test-related project risk. What the test team needs from the marketing team—the requirements—are already complete
-d) Is not correct. Problems with tool readiness are classic test-related project risks
+a) 正しくありません。テスト環境の準備に関する問題は、典型的なテスト関連のプロジェクトリスクである
+b) 正しくありません。テストスタッフの稼働率や資格に関する問題は、テストに関連する古典的なプロジェクトリスクである
+c) 正しい。これは重大なプロジェクトリスクではあるが、テストに関連したプロジェクトリスクではない。テストチームがマーケティングチームから必要とされるもの（要件）は、すでに完成している
+d) 正しくありません。ツールの準備に関する問題は、典型的なテスト関連のプロジェクトリスクである
 
 --- 
 
@@ -259,10 +259,11 @@ d) Is not correct. Problems with tool readiness are classic test-related project
 b 
 
 #### 解説
-a) Is not correct. Because at least two of these examples are mismatched
-b) Is correct. Because analytical risk-based testing includes risk-based test prioritization, methodical testing follows a checklist (which in this example includes traversing links on a site), process-compliant testing can include Agile process compliance, and consultative testing involves being externally directed
-c) Is not correct. Because at least two of these examples are mismatched
-d) Is not correct. Because at least two of these examples are mismatched
+a) 正しくありません。これらの例のうち少なくとも2つは不一致であるため
+b) 正しい。なぜなら、分析的リスクベースのテストは、リスクベースのテストの優先順位付けを含み、方法論的テストは、チェックリスト（この例では、サイト上のリンクをたどることを含む）に従い、プロセス準拠のテストは、アジャイルプロセス準拠を含み、コンサルティング的テストは、外部からの指示を受けることを含むからです。
+c) 正しくありません。これらの例のうち少なくとも2つが不一致であるため
+d) 正しくありません。なぜなら、これらの例のうち少なくとも2つは不一致だからです。
+
 
 ---
 
@@ -271,10 +272,10 @@ d) Is not correct. Because at least two of these examples are mismatched
 b
 
 #### 解説
-a) Is not correct. The process being compliant with in this case is Agile methodology, not IEEE 829
-b) Is correct. Agile lifecycles emphasize lightweight documentation
-c) Is not correct. IEEE 829 is documentation-heavy and thus incompatible with Agile philosophies on documentation and with reactive test strategies
-d) Is not correct. Even reactive tests have charters and even Agile lifecycles have acceptance criteria
+a)は正しくない。この場合、準拠しているプロセスはアジャイル方法論であり、IEEE 829ではない。
+b) 正しい。アジャイルライフサイクルは軽量なドキュメントを重視する
+c) 正しくありません。IEEE 829 は文書化を重視するため、文書化に関するアジャイル哲学や反応テスト戦略とは相容れない。
+d) 正しくありません。リアクティブテストにも憲章があり、アジャイルライフサイクルにも受け入れ基準がある。
 
 
 --- 
@@ -284,12 +285,11 @@ d) Is not correct. Even reactive tests have charters and even Agile lifecycles h
 a,b
 
 #### 解説
-a) Is correct. Considering historical averages for estimation is one recognized estimation technique
-b) Is correct. This is a common technique for managing experience-based testing and has estimation implications
-c) Is not correct. As cited in the syllabus, developers following known Agile best practices will remove as many as half the defects prior to system testing
-d) Is not correct. Agile methods eschew highly detailed documentation, including test documentation
-e) Is not correct. There is nothing in the scenario to make this re-use necessary or likely
-
+a) 正しい。推定に過去の平均を考慮することは、推定手法として認められている
+b) 正しい。経験ベースのテストを管理するための一般的な手法であり、見積もりにも影響する
+c) 正しくありません。シラバスで引用しているように、アジャイルのベストプラクティスに従う開発者は、システムテストの前に半分もの不具合を取り除くことができます。
+d) 正しくありません。アジャイル手法は、テスト文書を含む非常に詳細な文書化を避けます。
+e) 正しくありません。シナリオには、この再利用の必要性や可能性を示すものは何もない。
 
 ---
 
@@ -298,10 +298,10 @@ e) Is not correct. There is nothing in the scenario to make this re-use necessar
 a
 
 #### 解説
-a) Is correct. Defect repair time may delay testing but do not require test effort
-b) Is not correct. Even mature test processes could last long if effort is high
-c) Is not correct. Detailed test conditions demand effort
-d) Is not correct. High quality systems demand more testing effort
+a) 正しい。欠陥の修復時間はテストを遅らせるかもしれないが、テスト工数は必要ない
+b) 正しくはない。成熟したテストプロセスであっても、労力が高ければ長く続く可能性がある
+c) 正しくありません。詳細なテスト条件は労力を必要とする
+d) 正しくありません。高品質なシステムは、より多くのテスト労力を必要とする
 
 
 ---
@@ -311,10 +311,10 @@ d) Is not correct. High quality systems demand more testing effort
 a
 
 #### 解説
-a) Is correct. That is one of the test progress monitoring metrics. All of them are test metrics but used for a different thing
-b) Is not correct. Refers to dangerous use of that metric
-c) Is not correct. Is really monitoring progress of test analysis
-d) Is not correct. Is a metric to monitor progress of planning and control
+a)は正しい。それは、テスト進捗監視メトリクスの一つです。すべてテストメトリクスですが、違うことに使われます。
+b) 正しくはない。そのメトリクスの危険な使い方を指している
+c) 正しくありません。本当にテスト解析の進捗を監視しているのか
+d) 正しくありません。計画や管理の進捗を監視するための指標である
 
 
 ---
@@ -324,10 +324,10 @@ d) Is not correct. Is a metric to monitor progress of planning and control
 b
 
 #### 解説
-a) Is not correct. Combines wrong coverage to number of executed tests
-b) Is correct. It mentions three of the five main dimensions of test progress metrics
-c) Is not correct. Includes people category, which is unlikely to be used for test progress monitoring; also, people and product are not listed in the five main dimensions of test progress metrics
-d) Is not correct. Includes people category, which is unlikely to be used for test progress monitoring
+a) 正しくありません。間違ったカバレッジと実行されたテストの数の組み合わせ
+b) 正しい。テスト進捗メトリクスの5つの主要な次元のうち3つに言及している
+c) 正しくありません。テスト進捗のモニタリングに使用される可能性が低いpeopleカテゴリを含む。また、peopleとproductはテスト進捗メトリクスの5つの主要な次元にリストされていない。
+d) 正しくありません。テスト進捗のモニタリングに使用される可能性が低い「人」のカテゴリが含まれている
 
 
 ---
@@ -337,10 +337,10 @@ d) Is not correct. Includes people category, which is unlikely to be used for te
 c
 
 #### 解説
-a) Is not correct. Is all right, but no analysis involved, should not work on intuition only
-b) Is not correct. Focuses wrongly on capabilities
-c) Is correct. It combines using more different dimensions of test progress monitoring and starts looking into the probably real reason of test coverage versus effort spent leading to remaining product risks
-d) Is not correct. Is all right on its own but it does not utilize the risk information
+a) 正しくありません。正しいが、分析を伴わないので、直感だけで動いてはいけない。
+b) 正しくありません。能力への着目点が間違っている
+c) 正しい。テスト進捗モニタリングの様々な側面を利用し、テストカバレッジと費やされた労力の、おそらく本当の理由を調べ始め、製品リスクを残すことになる。
+d) 正しくありません。それ自体は正しいが、リスク情報を利用していない。
 
 
 ---
@@ -350,10 +350,10 @@ d) Is not correct. Is all right on its own but it does not utilize the risk info
 b
 
 #### 解説
-a) Is not correct
-b) Is correct. Training the BAs is a cost of prevention because it helps write higher-quality requirements; quality risk analysis is a detection cost because you would incur this cost even if you found no defects; any defect-related cost of quality incurred during testing and prior to release is a cost of internal failure, even avoidable costs; customer complaints are a cost of external failure because these customer complaints result in decreased future sales
-c) Is not correct
-d) Is not correct
+a) 正しくない
+b) 正しい。BAを育成することは、より質の高い要求事項を書くことにつながるので、予防コストである。品質リスク分析は、欠陥が見つからなくてもこのコストは発生するので、検出コストである。テスト中やリリース前に発生する欠陥関連の品質コストは、回避できるコストでも内部失敗コストである。顧客クレームは、将来の売上減少につながるので、外部失敗コストである
+c) 正しくありません。
+d) 正しくありません。
 
 
 ---
@@ -363,10 +363,10 @@ d) Is not correct
 b
 
 #### 解説
-a) Is not correct. You cannot add averages to calculate a total, and besides you weren’t given the cost of prevention
-b) Is correct. $5,000 – ($150 + $250) = $4,600
-c) Is not correct. Cost of quality can be used to calculate the value of any quality-related activity and is so used in industries around the world
-d) Is not correct. You must subtract the average costs of detection and internal failure associated with testing to calculate the net potential savings, rather than adding those costs
+a) 正しくありません。平均値を足して合計を計算することはできませんし、予防費も与えられていません。
+b) 正しい。$5,000 - ($150 + $250) = $4,600
+c) 正しくありません。品質コストは、品質に関連するあらゆる活動の価値を計算するために使用することができ、世界中の産業で使用されています。
+d) 正しくありません。テストに伴う検出や内部不良の平均コストを加算するのではなく、差し引いて正味の潜在的な節約額を計算する必要があります。
 
 ---
 
@@ -375,11 +375,10 @@ d) Is not correct. You must subtract the average costs of detection and internal
 d
 
 #### 解説
-a) Is not correct. There is no indication that any factor other than cost was used to select the outsource testing services firm
-b) Is not correct. There is no clear division of work between the teams
-c) Is not correct. The decision about the use of this offshore team was imposed top-down, corroding trust from the very start
-d) Is correct. An onsite person will act as the channel of communication
-
+a)は正しくない。テスト委託先の選定にコスト以外の要素が用いられた形跡はない。
+b) 正しくありません。チーム間の明確な業務分担がない
+c) 正しくありません。このオフショアチームの使用に関する決定は、トップダウンで行われたため、当初から信頼が損なわれていた
+d) 正しい。現場担当者がコミュニケーションチャネルとして機能する
 
 ---
 
@@ -388,10 +387,10 @@ d) Is correct. An onsite person will act as the channel of communication
 a
 
 #### 解説
-a) Is correct. From syllabus
-b) Is not correct. Not a standard – does not provide guidance on test coverage criteria
-c) Is not correct. A generic process improvement model – does not provide guidance on test coverage criteria
-d) Is not correct. A generic project management framework – does not provide guidance on test coverage criteria
+a) 正解です。シラバスより
+b) 正しくありません。規格ではないので、テストカバレッジの基準に関するガイダンスを提供しない。
+c) 正しくありません。一般的なプロセス改善モデル - テストカバレッジ基準のガイダンスを提供しない
+d) 正しくありません。一般的なプロジェクト管理のフレームワーク - テストカバレッジ基準のガイダンスを提供しません。
 
 
 ---
@@ -401,10 +400,10 @@ d) Is not correct. A generic project management framework – does not provide g
 a
 
 #### 解説
-a) Is correct. We are using the criteria to assess status and, based on that assessment, to decide future actions, which are actions that the syllabus says belong in a management review
-b) Is not correct. While we are indeed checking against defined criteria, there is no independent evaluation of compliance (the checking is being done by the project team) and there is no indication that "evidence" is being checked
-c) Is not correct. While the statement is in a sense true, it misses the element of decision-making by management peers, which is the key reason that this is a management review rather than an audit
-d) Is not correct. While a pass/fail assessment of the criteria might well occur, as with B, there is no independent evaluation of compliance
+a) その通りです。私たちは、状況を評価し、その評価に基づいて将来の行動を決定するために基準を使用しています。これは、シラバスがマネジメントレビューに属すると述べている行動です。
+b) 正しくありません。定義された基準に照らしてチェックしているのは確かだが、適合性を独自に評価することはなく（チェックはプロジェクトチームが行っている）、「証拠」がチェックされていることを示すものはない。
+c) 正しくありません。この記述はある意味正しいが、経営陣の仲間による意思決定の要素が欠落しており、これが監査ではなくマネジメントレビューである主な理由である
+d) 正しくありません。基準の合否判定は行われるかもしれないが、Bと同様、適合性の独立した評価は行われな い。
 
 
 ---
@@ -414,10 +413,10 @@ d) Is not correct. While a pass/fail assessment of the criteria might well occur
 c
 
 #### 解説
-a) Is not correct. Management wants a lightweight process, and because the requirements (and possibly the design) are already complete
-b) Is not correct. Is not as good an answer as the correct one, because it specifically includes only test work products
-c) Is correct. Informal reviews are a lightweight approach that will achieve the benefits
-d) Is not correct. Reviews can be planned and managed by various participants on a project, including the test manager
+a) 正しくありません。経営者は軽量なプロセスを望んでおり、要件（場合によっては設計も）はすでに完成しているからだ
+b) 正しくありません。テスト作業成果物だけを具体的に含んでいるので、正解とは言えない
+c) 正しい。インフォーマル・レビューは、利益を達成するための軽量なアプローチである
+d) 正しくありません。レビューは、テストマネージャを含む、プロジェクトの様々な参加者が計画し、管理することができる
 
 
 ---
@@ -427,10 +426,10 @@ d) Is not correct. Reviews can be planned and managed by various participants on
 c
 
 #### 解説
-a) Is not correct. Because of one or more mismatches
-b) Is not correct. Because of one or more mismatches
-c) Is not correct. Because of one or more mismatches
-d) Is correct. Web development and understanding of cloud computing relate to the technical elements of the project. Attention to detail is a personality trait needed in any review participant. Having participated in reviews gives the individual knowledge of the review procedure. Financial applications manage balances, which is relevant to managing loyalty point balances
+a) 正しくありません。1つ以上の不一致があるため
+b) 正しくありません。1つ以上のミスマッチがあるため
+c) 正しくありません。1つ以上のミスマッチがあるため
+d) 正しい。Web制作やクラウドコンピューティングの理解は、プロジェクトの技術的な要素に関連するものである。細部へのこだわりは、レビュー参加者に必要な性格的特徴である。レビューに参加した経験により、レビューの手順に関する知識が得られる。金融アプリケーションは残高を管理するものであり、ポイント残高の管理に関連する。
 
 
 --- 
@@ -439,11 +438,11 @@ d) Is correct. Web development and understanding of cloud computing relate to th
 a,c
 
 #### 解説
-a) Is correct. Because with these you can calculate the total time spent in reviews and dynamic testing and the number of found defects in both, and then compare those numbers to dynamic testing numbers only
-b) Is not correct. It is not relevant to efficiency calculations
-c) Is correct. Because with these you can calculate the total time spent in reviews and dynamic testing and the number of found defects in both, and then compare those numbers to dynamic testing numbers only
-d) Is not correct. As it is specifically mentioned in scenario, you might be drawn to this. Not relevant to count only severe defects though
-e) Is not correct. As it is specifically mentioned in scenario, you might be drawn to this. Not relevant to think about status. You want test hours
+a)は正しいです。なぜなら、レビューと動的テストに費やした総時間と、両方で見つかった欠陥の数を計算し、その数字を動的テストだけの数字と比較することができるためです。
+b) 正しくありません。効率計算には関係ない
+c) 正しい。なぜなら、レビューと動的テストに費やされた総時間と、両方で見つかった欠陥の数を計算し、それらの数を動的テストだけの数と比較することができるからです。
+d) 正しくありません。シナリオに具体的に書かれているので、これに惹かれるかもしれません。重度の不具合だけをカウントするのは関係ないですが
+e) 正しくありません。シナリオに具体的に書かれているので、それに引きずられるかもしれない。ステータスを考えるのは関係ない。テスト時間が欲しい
 
 --- 
 ### 問35：TM-3.5.1 (配点 1点)
@@ -451,10 +450,10 @@ e) Is not correct. As it is specifically mentioned in scenario, you might be dra
 a
 
 #### 解説
-a) Is correct. Root cause of the defects must be found
-b) Is not correct. All stakeholders must agree on the review objectives
-c) Is not correct. “punishment” does not help, be constructive!
-d) Is not correct. Accuses does not help, be constructive!
+a)は正しい。不具合の根本的な原因を見つける必要がある
+b) 正しくありません。すべての利害関係者がレビューの目的に同意しなければならない
+c) 正しくありません。"罰 "は助けにならない。建設的であれ!
+d) 正しくありません。非難は助けにならない。建設的であれ!
 
 
 --- 
@@ -463,10 +462,10 @@ d) Is not correct. Accuses does not help, be constructive!
 b
 
 #### 解説
-a) Is not correct. No point retesting immediately after testing. NEW is often synonymous with OPEN. If state Z was blocked, then you cannot exit this state
-b) Is correct. Both initial triage and assignment may decide to reject a defect (hence transition to REJECTED). If testing finds defect not fixed, then it will move to REOPENED. Both initial triage and assignment may decide that a defect may be deferred (perhaps to a later release)
-c) Is not correct. A duplicate defect would not require re-assignment. Unconfirmed as state Y does not work as you cannot leave this state. State Z could be terminated in some schemes
-d) Is not correct. Verified and tested are often synonymous – so both not needed. Review as state Y does not work as you cannot leave this state. State Z as fixed does not work – fixed is synonymous with resolved and you cannot get from state Z to ‘CLOSED’
+a) 正しくありません。テスト直後の再テストは意味がない。NEWはOPENと同義であることが多い。状態Zがブロックされていた場合、この状態を抜けることはできない
+b) 正しい。最初のトリアージと割り当ての両方で、欠陥の拒否が決定されることがある（そのため、REJECTEDに遷移する）。テストで欠陥が修正されていないことがわかれば、REOPENEDに移行する。最初のトリアージと割り当ての両方が、不具合を延期することを決定する場合がある（おそらく後のリリースに延期される）。
+c) 正しくない。重複する欠陥は再割り当てを必要としない。状態Yとして未確認は、この状態を離れることができないので、機能しない。状態Zは、いくつかの方式で終了させることができる。
+d) 正しくありません。検証済みとテスト済みはしばしば同義語であり、両方は必要ない。状態Yは、この状態を離れることができないので、動作しない。状態Zをfixedとしても機能しない - fixedはresolvedと同義であり、状態Zから'CLOSED'へと移行できない。
 
 --- 
 ### 問37：TM-4.2.2 (配点 1点)
@@ -474,10 +473,10 @@ d) Is not correct. Verified and tested are often synonymous – so both not need
 c
 
 #### 解説
-a) Is not correct. It makes no sense to defer a defect that is already fixed
-b) Is not correct. Confirmation test is not a terminal state
-c) Is correct. It corresponds to a defect that turns out
-d) Is not correct. A defect report can’t be in progress before it’s even reported
+a) 正しくありません。既に修正された不具合を延期するのは意味がない
+b) 正しくありません。確認テストは終局状態ではない
+c) 正しい。判明している不具合に対応する
+d) 正しくありません。不具合報告の前に進行中であることはありえない
 
 --- 
 ### 問38：TM-4.3.1 (配点 2点)
@@ -485,11 +484,11 @@ d) Is not correct. A defect report can’t be in progress before it’s even rep
 b,c
 
 #### 解説
-a) Is not correct. The third party already knows that these defect reports are coming from dynamic system testing
-b) Is correct. These steps (and actual results) will help them understand the defect and the expected results will confirm that the testers understood what was expected
-c) Is correct. The third party needs this information to aid their prioritization
-d) Is not correct. Phase of detection is already available (system test), and phase of removal (hopefully now) is not known
-e) Is not correct. It is not the testers’ responsibility to determine the location of the defect in the system
+a) 正しくありません。第三者は、これらの欠陥報告が動的システム試験から来るものであることを既に知っている
+b) 正しい。これらの手順（と実際の結果）は、彼らが欠陥を理解するのに役立ち、期待される結果は、テスト担当者が期待されることを理解していたことを確認することになる
+c) 正しい。第三者は、優先順位付けのためにこの情報を必要としている
+d) 正しくありません。検出のフェーズはすでに利用可能であり（システムテスト）、除去のフェーズは（できれば今）不明である
+e) 正しくありません。システム内の欠陥の位置を決定するのは、テスト担当者の責任ではない
 
 --- 
 
@@ -498,10 +497,10 @@ e) Is not correct. It is not the testers’ responsibility to determine the loca
 b 
 
 #### 解説
-a) Is not correct. The phase of introduction may be useful, but the detection and removal info are not useful for reducing defect introduction
-b) Is correct. This will show where defects are currently introduced, and so we can target these activities to prevent future defect introduction
-c) Is not correct. This is used for defect clustering information to target components that need extra testing – but does not directly help prevent defects
-d) Is not correct. This tells us how efficient we are at removing defects – it does not help with reducing the introduction of defects
+a) 正しくありません。導入のフェーズは有用かもしれないが、検出と除去の情報は欠陥導入の低減には有用でない
+b) 正しい。現在どこに欠陥が導入されているかがわかるので、今後の欠陥導入を防ぐための活動のターゲットにできる
+c) 正しくありません。これは、特別なテストが必要なコンポーネントに的を絞るための欠陥クラスタリング情報に使用されますが、欠陥の防止に直接役立つものではありません。
+d) 正しくありません。これは、欠陥の除去の効率性を示すものであり、欠陥の発生を抑制することには役立ちません。
 
 --- 
 ### 問40：TM-5.2.1 (配点 1点)
@@ -509,11 +508,11 @@ d) Is not correct. This tells us how efficient we are at removing defects – it
 a,d
 
 #### 解説
-a) Is correct. Syllabus sect. 5.2
-b) Is not correct. Contradicts syllabus
-c) Is not correct. Contradicts syllabus
-d) Is correct. Syllabus sect. 5.3
-e) Is not correct. Wrong conclusion
+a) 正しい。シラバスのsector. 5.2
+b) 正しくありません。シラバスに抵触する
+c) 正しくありません。シラバスと矛盾する
+d) 正解です。シラバス(Syllabus sect. 5.3
+e) 正しくありません。誤った結論
 
 --- 
 
@@ -522,11 +521,11 @@ e) Is not correct. Wrong conclusion
 a,c
 
 #### 解説
-a) Is correct. It is the fifth step of the IDEAL process
-b) Is not correct. This is the first step of the IDEAL process and has already been carried out
-c) Is correct. It is the third step of the IDEAL process
-d) Is not correct. This is the second step of the IDEAL process and has already been carried out
-e) Is not correct. It is not a given that your organization followed TMMi
+a)は正しい。IDEALプロセスの5番目のステップである
+b) 正しくありません。IDEALプロセスの第1段階であり、すでに実施されている
+c) 正しい。IDEALプロセスの3番目のステップです。
+d) 正しくありません。これは IDEAL プロセスの第 2 ステップであり、すでに実施されている
+e) 正しくありません。あなたの組織がTMMiに従ったのは当たり前ではない
 
 --- 
 
@@ -535,10 +534,10 @@ e) Is not correct. It is not a given that your organization followed TMMi
 c
 
 #### 解説
-a) Is not correct. Based on scenario-information it is unlikely you are this high
-b) Is not correct. Based on scenario-information it is unlikely you are this low
-c) Is correct. TMMi supports CMMi, which is your company’s choice
-d) Is not correct. Is irrelevant detail
+a) 正しくありません。シナリオの情報では、これほど高くはないでしょう。
+b) 正しくありません。シナリオの情報に基づいて、あなたがこれほど低いとは考えにくいです。
+c) 正しい。TMMiはCMMiをサポートしており、貴社が選択したものである
+d) 正しくありません。関係ない内容です。
 
 --- 
 
@@ -547,10 +546,10 @@ d) Is not correct. Is irrelevant detail
 b
 
 #### 解説
-a) Is not correct. Improvement objectives not visible in matrix
-b) Is correct. [TPI Next® book p. 50]
-c) Is not correct
-d) Is not correct
+a) 正しくありません。改善目標がマトリクスに表示されていない
+b) 正しいです。[TPI Next®ブックP.50] です。
+c) 正しくありません
+d) 正しくありません
 
 --- 
 
@@ -559,10 +558,10 @@ d) Is not correct
 b
 
 #### 解説
-a) Is not correct. This would apply to TMMi
-b) Is correct. CTP uses metrics to benchmark organizations against industry averages
-c) Is not correct. This would apply to TPI-Next
-d) Is not correct. The assessment is part of the scope of the CTP model, but it is not an objective (except maybe for the consultant doing it)
+a) 正しくありません。TMMiに適用されます。
+b) 正しい。CTPは、業界平均に対して組織をベンチマークするために指標を使用している
+c) 正しくはない。これは、TPI-Nextに適用される
+d) 正しくない。評価はCTPモデルの範囲に含まれるが、（それを行うコンサルタントを除けば）目的ではない。
 
 --- 
 
@@ -571,10 +570,10 @@ d) Is not correct. The assessment is part of the scope of the CTP model, but it 
 c
 
 #### 解説
-a) Is not correct. Is OK, but requirements are not mentioned in the scenario
-b) Is not correct. Design problems not mentioned in scenario
-c) Is correct. It fits ”test is behind schedule”
-d) Is not correct. Is OK but already done, since defects are classified
+a) 正しくありません。OKだが、シナリオに要件が記載されていない
+b) 正しくありません。シナリオに設計上の問題点が記載されていない
+c) 正しい。"テストが遅れている "に当てはまる
+d) 正しくはない。欠陥は分類されているので、OKだが、すでに終わっている
 
 --- 
 
@@ -583,10 +582,10 @@ d) Is not correct. Is OK but already done, since defects are classified
 d
 
 #### 解説
-a) Is not correct. This is a valid concern, as you need to adapt the tools and maybe give rights of your adaptations to open-source community, depending on licensing terms
-b) Is not correct. This is a valid concern, as you need the telecom standard compliance
-c) Is not correct. This is a valid concern, as you have your own specific purposes (which is why you originally had custom tools). Is the original purpose too far from what you need?
-d) Is correct. Open-source tools can be modified, and you have the capabilities, having earlier built custom tools, so you should not care about adapting being hard
+a) 正しくありません。なぜなら、あなたはツールを適合させる必要があり、ライセンス条件によっては、適合させたものの権利をオープンソースコミュニティに与えるかもしれないからです。
+b) 正しくありません。通信規格に準拠する必要があるので、これは妥当な懸念である。
+c) 正しくありません。これは、あなた自身の特定の目的（それが元々カスタムツールを持つ理由です）があるため、正当な懸念です。本来の目的からかけ離れすぎていませんか？
+d) 正しい。オープンソースのツールは修正可能であり、先にカスタムツールを作っていたあなたにはその能力があるのだから、適応が難しいということは気にする必要はないだろう。
 
 --- 
 
@@ -595,10 +594,10 @@ d) Is correct. Open-source tools can be modified, and you have the capabilities,
 b
 
 #### 解説
-a) Is not correct. This answer would suggest using a ready-made tool, but standard compliance could be met with custom-built tools also, although maybe with more effort
-b) Is correct. The company’s hardware business unit changes hardware often (every six months)
-c) Is not correct. This is a prerequisite, but not a reason
-d) Is not correct. Makes it attractive to keep the custom-made tool but does not justify the great time spent to use and maintain the tool and the stem does not mention ease-of-use
+a) 正しくありません。この回答は、既製のツールを使用することを示唆しているが、標準的なコンプライアンスは、より多くの労力を要するかもしれないが、カスタムビルドツールでも満たすことができる。
+b) 正しい。会社のハードウェア事業部は、ハードウェアを頻繁に変更する（6ヶ月に1回）。
+c) 正しくはない。これは前提条件ではあるが、理由にはならない
+d) 正しくありません。カスタムメイドのツールを維持することは魅力的だが、そのツールの使用と保守に費やす多大な時間を正当化できないし、ステムは使いやすさには言及していない
 
 --- 
 
@@ -607,11 +606,11 @@ d) Is not correct. Makes it attractive to keep the custom-made tool but does not
 c,d
 
 #### 解説
-a) Is not correct. Not your major concern although good point to check in general
-b) Is not correct. Not your major concern although good point to check in general
-c) Is correct. You need to consider the possibility the tool is not enough to all your technical needs, even if it would be faster for some of them
-d) Is correct. You need to think about your existing large number of tests, also a ROI concern
-e) Is not correct. Not your major concern although good point to check in general
+a) 正しくありません。一般的に確認するのは良いことですが、あまり重要ではありません。
+b) 正しくありません。一般的に確認する良いポイントですが、あなたの大きな関心事ではありません。
+c) 正しい。そのツールは、あなたの技術的なニーズすべてに対して十分ではない可能性を考慮する必要がある、たとえそれがいくつかの技術的なニーズにとってより速くなるとしても
+d) その通りです。既存の膨大な数のテストについて考える必要があり、またROIの懸念もあります。
+e) 正しくありません。一般的に確認するには良いポイントですが、あなたの主な関心事ではありません。
 
 --- 
 
@@ -620,10 +619,10 @@ e) Is not correct. Not your major concern although good point to check in genera
 b
 
 #### 解説
-a) Is not correct. This activity is not necessary because the old tool will be retired
-b) Is correct. This answer concerning retirement, as there are lots of existing scripts, and regression test scripts are the ones used most often
-c) Is not correct. This activity is not necessary because the old tool will be retired
-d) Is not correct. Even if you would like, it is not realistic to convert all the scripts, if you can manage with just regression test scripts
+a) 正しくありません。古いツールは廃棄されるため、この活動は必要ありません。
+b) 正しい。既存のスクリプトがたくさんあり、回帰テストスクリプトが最も頻繁に使用されるため、この回答は引退に関するものです。
+c) 正しくありません。古いツールは引退するため、この活動は必要ない
+d) 正しくありません。回帰テストスクリプトだけで対応できるのであれば、すべてのスクリプトを変換するのは現実的ではない
 
 --- 
 
@@ -632,10 +631,10 @@ d) Is not correct. Even if you would like, it is not realistic to convert all th
 b
 
 #### 解説
-a) Is not correct. On its own does not tell anything, the tests could be all on same functional area. However, the measuring of test execution becomes easier with this
-b) Is correct. This metric will tell you automatically if you cover enough of the requirements to make it to the release deadline and if you have too much coverage on some areas
-c) Is not correct. Concern’s performance testing tools
-d) Is not correct. This might help make collecting hours easier, but on its own does not help, time is mentioned as problem, so that might lead you to this option
+a) 正しくありません。テストはすべて同じ機能領域である可能性があるため、それ自体では何もわからない。しかし、テスト実行の測定は、これで簡単になります。
+b)正しい。この指標は、リリース期限に間に合わせるために必要な要件を十分にカバーしているかどうか、また、一部の領域でカバーしすぎていないかどうかを自動的に教えてくれます。
+c) 正しくありません。コンツェルンのパフォーマンステストツール
+d)は正しくありません。これは、時間の収集を容易にするのに役立つかもしれませんが、それだけでは役に立ちません。時間が問題として挙げられているので、この選択肢につながるかもしれません。
 
 --- 
 
@@ -644,10 +643,10 @@ d) Is not correct. This might help make collecting hours easier, but on its own 
 b
 
 #### 解説
-a) Is not correct. Neither of these can write code, which is necessary to write the scripts
-b) Is correct. Coding skills are necessary for the actual scripting and design skills are very useful to ensure good design of the keyword-driven framework
-c) Is not correct. Neither of these can write code, which is necessary to write the scripts
-d) Is not correct. Neither of these can write code, which is necessary to write the scripts
+a)は正しくない。どちらも、スクリプトを書くために必要なコードを書くことができません
+b) 正しい。コーディングスキルは実際のスクリプト作成に必要であり、デザインスキルはキーワード駆動型フレームワークの優れた設計を保証するために非常に有用である
+c) 正しくありません。どちらも、スクリプトを書くために必要なコードを書くことができない
+d) 正しくありません。どちらもコードを書くことができないので、スクリプトを書くのに必要である
 
 --- 
 
@@ -656,11 +655,11 @@ d) Is not correct. Neither of these can write code, which is necessary to write 
 a,d
 
 #### 解説
-a) Is correct. We should look for ways to balance weaknesses with strengths when hiring
-b) Is not correct. For all we know, some or all of the testers are already certified, and, in addition, we don't have any indication that the most critical skills weaknesses are in the area of testing
-c) Is not correct. This is an extreme step, and we have no information that say the team is failing or seen to be failing
-d) Is correct. We need to most urgently address the weaknesses that most affect effectiveness and efficiency
-e) Is not correct. Creating weakness where you currently have strength is not a very desirable solution
+a)は正しい。採用の際には、弱みと強みのバランスを取る方法を探すべきだ
+b) 正しくありません。テスターの一部または全員がすでに資格を取得していることは分かっているし、さらに、最も重要なスキルの弱点がテストの分野であることを示すものはない
+c) 正しくありません。これは極端なステップであり、チームが失敗している、または失敗していると見られるという情報はない。
+d) 正しい。効果や効率に最も影響を与える弱点に早急に対処する必要がある。
+e) 正しくありません。現在、強みがあるところに弱みを作ることは、あまり望ましい解決策ではありません。
 
 --- 
 
@@ -669,11 +668,11 @@ e) Is not correct. Creating weakness where you currently have strength is not a 
 a,b
 
 #### 解説
-a) Is correct. As we are getting two new team members, and timescales are short, we need to assimilate them into the team as quickly as possible
-b) Is correct. If team members feel they are valued they are more likely to contribute more
-c) Is not correct. Treating all team members the same and sharing all tasks across the team does not make best use of the disparate skills of the different team members
-d) Is not correct. As the team leader, you have different responsibilities (and presumably skills) than the team members, so it is better use of your time to manage and them to test
-e) Is not correct. It is better practice to provide more autonomy to the testers and allow them to manage their time more efficiently
+a) その通りです。2人の新しいチームメンバーを迎え、期間も短いので、できるだけ早くチームに溶け込ませる必要がある
+b) その通りです。チームメンバーは自分が評価されていると感じれば、より多くの貢献をする可能性が高くなる
+c) 正しくありません。チームメンバー全員を同じように扱い、すべての仕事をチーム内で分担すると、チームメンバーごとに異なるスキルを最大限に活用することができない
+d) 正しくありません。チームリーダーであるあなたは、チームメンバーとは異なる責任（と推定されるスキル）を持っているので、あなたは管理に、彼らはテストに時間を使う方が良いのです。
+e) 正しくありません。テスターにもっと自律性を与え、彼らがもっと効率的に時間を管理できるようにするのが良い方法です。
 
 --- 
 
@@ -682,10 +681,10 @@ e) Is not correct. It is better practice to provide more autonomy to the testers
 b
 
 #### 解説
-a) Is not correct. System testing done solely by banking experts: who tests web services?
-b) Is correct. Technical aspects covered by developers; functionality covered by internal testers and domain experts; internationalization covered by external experts
-c) Is not correct. No component integration testing; no internationalization test knowledge
-d) Is not correct. No internationalization test knowledge
+a) 正しくありません。システムテストは銀行の専門家だけで行われる：誰がWebサービスをテストするのか？
+b) 正しい。技術面は開発者が、機能面は社内テスターとドメインエキスパートが、国際化は社外エキスパートが担当する。
+c) 正しくありません。コンポーネント統合テストはない。国際化テストの知識もない。
+d) 正しくありません。国際化テストの知識がない
 
 --- 
 
@@ -694,10 +693,10 @@ d) Is not correct. No internationalization test knowledge
 b
 
 #### 解説
-a) Is not correct. This is motivating behavior from syllabus
-b) Is correct. Aligning tester bonuses with delivered quality can be demotivating as the testers have an indirect impact on delivered quality – and in this scenario the deliverable is not meeting customer expectations, so is probably perceived to be of low quality
-c) Is not correct. This is motivating behavior from syllabus
-d) Is not correct. This is motivating behavior from syllabus
+a) 正しくありません。これはシラバスからモチベーションを上げる行動です
+b) 正しい。そして、このシナリオでは、成果物が顧客の期待に応えていないため、おそらく低品質であると認識されているのです。
+c) 正しくありません。これは、シラバスからモチベーションを上げる行動である
+d) 正しくありません。これは、シラバスからモチベーションを上げる行動です。
 
 --- 
 
@@ -706,9 +705,9 @@ d) Is not correct. This is motivating behavior from syllabus
 b
 
 #### 解説
-a) Is not correct. Upper management won’t want to see detailed defect reports
-b) Is correct. Diplomacy and objectivity are important to build trust in the new outsourcing setting; reviews are constructive means to transfer knowledge of the internal team to the off-shore team
-c) Is not correct. Upper management won’t want to be involved in the root cause investigation
-d) Is not correct. Off-shore team alone won’t be effective to find the root causes
+a) 正しくありません。上層部は詳細な欠陥報告書を見たがらないだろう
+b) 正しい。新しいアウトソーシングの場で信頼を築くには、外交と客観性が重要である。レビューは、社内チームの知識をオフショアチームに伝える建設的な手段である
+c) 正しくありません。上層部は根本原因の調査に関与したがらないだろう
+d) 正しくありません。オフショアチームだけでは、根本的な原因を見つけることはできない。
 
 &nbsp;
