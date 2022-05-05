@@ -21,11 +21,11 @@ ISTQBサイトに掲載されているサンプル問題の解答解説を翻訳
 b,e
 
 #### 解説
-- a) Is not correct. TDD starts with unit test case design; in agile processes, normally - there are no detailed design specifications
-- b) Is correct. 30% of performance issues are reported in relationship to web services. These (or some of them) may be due to undefined SLA
-- c) Is not correct. There is no integration test level
-- d) Is not correct. Unit testing is under the hood of development
-- e) Is correct. Performance. Tests must be conducted; system not stable before day 10
+- a) 正しくありません。TDDはユニットテストケースの設計から始まります。アジャイルプロセスでは通常、詳細な設計仕様はありません。
+- b) 正しい。パフォーマンス問題の30%は、Webサービスに関連して報告されています。これら（またはその一部）は、未定義のSLAが原因である可能性がある。
+- c) 正しくありません。統合テストレベルがない
+- d) 正しくありません。単体テストは、開発の下っ端にある
+- e)は正しい。パフォーマンスです。テストは実施しなければならない、10日目までにシステムが安定することはない
 
 --- 
 
@@ -34,12 +34,12 @@ b,e
 a
 
 #### 解説
-- a) Correct
-    - 1) Performance tests with maximum allowed response time 10 seconds for up to 10,000 simultaneous requests of user story US 03-20 are missing
-    - 2) A test condition for user story US 02-20 is missing
-- b) Is not correct
-- c) Is not correct
-- d) Is not correct
+- a) 正解
+    - 1) ユーザーストーリーUS03-20の最大同時リクエスト数10,000に対して、最大許容応答時間10秒の性能テストが抜けている。
+    - 2) ユーザーストーリーUS 02-20のテスト条件が抜けている
+- b) 正しくありません
+- c) 正しくありません
+- d) 正しくありません
 
 ---
 
@@ -48,11 +48,11 @@ a
 a,d
 
 #### 解説
-- a) Is correct. Questions at test design to refine coarse grained test conditions would be expensive to answer
-- b) Is not correct. Detailed test conditions would be hard to maintain (Syllabus)
-- c) Is not correct. Questions at test design to refine coarse grained test conditions could be answered by domain experts
-- d) Is correct. Specifying detailed test conditions could act in place of a poor test basis and contribute to defect prevention
-- e) Is not correct. Management does not general require that level of detail
+- a)は正しい。粗い粒度の試験条件を洗練させるための試験設計の質問は、回答するのに高額になる
+- b) 正しくありません。詳細なテスト条件の整備が大変になる（シラバス）
+- c) 正しくありません。粗い粒度のテスト条件を絞り込むテスト設計時の質問は、専門家が答えれば良い。
+- d) 正しい。詳細なテスト条件を指定することで、貧弱なテスト基盤の代わりとなり、欠陥防止に貢献することができる
+- e) 正しくありません。経営者は、一般的にそのレベルの詳細さを要求しない
 
 ---
 
@@ -61,10 +61,10 @@ a,d
 a 
 
 #### 解説
-- a) Is not correct. Might cover this risk item, but it is a negative test and does not contain an expected result; it’s a good exploratory negative test for this risk item, though
-- b) Is not correct. Is a perfectly good positive logical test but does not cover the risk item
-- c) Is correct. Has the input to occur, the correct expected result per the scenario, and relates to the risk item
-- d) Is not correct. Has the wrong expected result and so it Is not correct
+- a) 正しくありません。このリスク項目をカバーするかもしれないが、ネガティブテストであり、期待される結果を含んでいない。このリスク項目の探索的ネガティブテストとしては良いが
+- b) 正しくありません。完全に良い陽性の論理テストであるが、リスク項目をカバーしない。
+- c) 正しい。発生する入力があり、シナリオに沿った正しい期待される結果があり、リスク項目に関連する。
+- d) 正しくありません。期待される結果が間違っているので、正しくない。
 
 --- 
 
@@ -73,10 +73,10 @@ a
 a 
 
 #### 解説
-- a) Is correct. This risk relates to the core functionality of the application
-- b) Is not correct. Tests with very high impact and higher likelihood should run before this test
-- c) Is not correct. Is not certainly true because we do not know how this risk item relates to other risk items
-- d) Is not correct. Is not certainly true because we do not know how effort allocation is determined based on combined impact and likelihood
+- a) 正しい。このリスクは、アプリケーションの中核的な機能に関するものである。
+- b) 正しくありません。非常に高い影響と高い可能性を持つテストは、このテストの前に実行されるべきです。
+- c) 正しくありません。このリスク項目が他のリスク項目とどのように関連しているかが分からないので、確実に正しいとは言えない
+- d) 正しくありません。影響度と尤度の組み合わせに基づいて、どのように工数配分を決定しているか分からないので、確実に正しいとは言えない。
 
 ---
 
@@ -85,11 +85,11 @@ a
 b,e
 
 #### 解説
-- a) Is not correct. The situation in option B, or perhaps simply blockage of tests, can explain running tests out of risk order
-- b) Is correct. 02.019 covers a different requirement than 02.010
-- c) Is not correct. While evaluating problems with test sequencing makes sense, there is no need to stop running tests while doing so
-- d) Is not correct. Finding defects is not the only objective of testing
-- e) Is correct. Higher-risk tests precede lower-risk tests in risk-based testing strategies
+- a) 正しくありません。選択肢 B の状況、あるいは単にテストがブロックされただけで、リスクオーダー外のテストの実行を説明できる。
+- b) 正しい。02.019は02.010とは異なる要件を対象としています。
+- c) 正しくありません。テストの順序に関する問題を評価することは理にかなっていますが、その際にテストの実行を停止する必要はありません。
+- d) 正しくありません。不具合を発見することだけがテストの目的ではない
+- e) 正しい。リスクベースのテスト戦略では、高リスクのテストが低リスクのテストより優先されます。
 
 --- 
 
@@ -98,11 +98,11 @@ b,e
 b,e
 
 #### 解説
-- a) Is not correct. Could not be measured timely
-- b) Is correct. From syllabus
-- c) Is not correct. Could not be measured timely
-- d) Is not correct. Related to test analysis progress
-- e) Is correct. From syllabus
+- a) 正しくありません。タイムリーに測定できなかった
+- b) 正しい シラバスより
+- c) 正しくありません。適時に測定できなかった
+- d) 正しくありません。テスト解析の進捗に関係する
+- e) 正しい。シラバスより
 
 --- 
 
@@ -111,10 +111,10 @@ b,e
 a
 
 #### 解説
-- a) Is correct. Per syllabus section 1.3
-- b) Is not correct
-- c) Is not correct
-- d) Is not correct
+- a)は正しい。シラバス1.3項による
+- b) 正しくありません
+- c) 正しくありません
+- d) 正しくありません
 
 --- 
 
@@ -123,11 +123,11 @@ a
 a, c
 
 #### 解説
-a) Is correct. We want to analyze defect information to evaluate whether the quality risk analysis was correct in a retrospective
-b) Is not correct. This is supposed to happen during implementation
-c) Is correct. Enrollment is a key requirement area, and test retrospectives should check whether defects were missed in such areas under a requirements-based test strategy
-d) Is not correct. While this is part of test closure, it is not part of the retrospective
-e) Is not correct. This is part of test control
+a)は正しい。品質リスク分析が正しかったかどうかを評価するために、欠陥情報をレトロスペクティブに分析したい
+b) 正しくありません。実装時に実施することになっている
+c) 正しい。エンロールは重要な要件領域であり、要件ベースのテスト戦略のもと、そのような領域で欠陥が見逃されていないか、テストレトロスペクティブで確認する必要がある
+d) 正しくありません。これはテストクロージャの一部であるが、レトロスペクティブの一部ではない。
+e) 正しくありません。これは、テストコントロールの一部である
 
 
 ---
@@ -137,10 +137,10 @@ e) Is not correct. This is part of test control
 d
 
 #### 解説
-a) Is not correct. Married customers are not current customers (unless they are cheating on their spouse) and thus should not really care if invoicing is working correctly
-b) Is not correct. Government employees would not really care about how well the matching works, except for those employees who are users of the application (which has nothing to do with being an employee of a government agency)
-c) Is not correct. The users really do not have much concern about whether the company is paying the proper taxes, as long as the user is being charged properly
-d) Is correct. Users care about receiving the service they are paying for, at the agreed price; managers and stakeholders must care about all three types of tests, so that they have satisfied customers, a profitable company, and legal compliance; government agents care about compliance with the rules; and, married couples are not current stakeholders
+a) 正しくありません。既婚者は現在の顧客ではないので（配偶者を裏切っていない限り）、請求書が正しく発行されているかどうかを気にする必要はないはずです。
+b) 正しくありません。政府機関の職員は、アプリケーションのユーザーである職員を除いて、マッチングがどの程度うまく機能するかについて本当に気にしないでしょう（政府機関の職員であることとは関係ない）。
+c) 正しくありません。ユーザーは、会社が適切な税金を支払っているかどうかについては、ユーザーが適切に請求されている限り、実際にはあまり気にしていない
+d) 正しい。経営者や利害関係者は、顧客が満足し、会社が利益を上げ、法令を遵守するために、3種類のテストすべてに気を配らなければなりません。政府機関は、規則を遵守することに気を配ります。
 
 ---
 
@@ -149,10 +149,10 @@ d) Is correct. Users care about receiving the service they are paying for, at th
 c
 
 #### 解説
-a) Is not correct. Is a true statement as well, but not about project management affecting testing, but rather testing affecting technical support
-b) Is not correct. Is a true statement but is about how testing affects a project management work product, not how a project management work product affects testing
-c) Is correct. The test plan must be consistent with the larger project plan
-d) Is not correct. Requirements are not a project management work product, and, in addition, this statement is only true when following a requirements-based testing strategy
+a) 正しくありません。これも正しいが、プロジェクトマネジメントがテストに影響を与えるのではなく、テストがテクニカルサポートに影響を与えるということである。
+b) 正しくありません。正しいが、テストがプロジェクトマネジメントの成果物にどのように影響するかについてであり、プロジェクトマネジメントの成果物がテストにどのように影響するかについてではない。
+c) 正しい。テスト計画は、より大きなプロジェクト計画と整合していなければならない。
+d) 正しくありません。要件はプロジェクトマネジメントの成果物ではないし、さらに、この記述は要件ベースのテスト戦略に従っている場合にのみ正しい。
 
 --- 
 
