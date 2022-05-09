@@ -29,6 +29,17 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 
 &nbsp;
   
+### 使用ツール
+学習時に使用したツールとして以下がある。
+
+- Captain Bubbble Test -Create Your Own Bubble Test Sheets-
+    - [https://www.catpin.com/bubbletest/](https://www.catpin.com/bubbletest/)
+    - マークシートを生成するために使用した。英語とスペイン語に対応している。
+    - 生成後にPDF出力、それをB5サイズで印刷することで練習用のマークシートを作成することができる。
+
+&nbsp;
+
+
 ## JSTQB ALTMのシラバス構成を整理
 ### 章立て
 章立ては以下の全8章となる。
@@ -121,7 +132,7 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
   
 &nbsp;
 
-## 配点の整理 <作成中>
+## 配点の整理
 ### 配点表
 JSTQB Advanced Level Test Managerの出題および配点は、ISTQB Exam Structure Tablesに以下の通り記載されている。
 
