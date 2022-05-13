@@ -14,6 +14,11 @@ ISTQBサイトに掲載されているサンプル問題の解答解説を翻訳
         - ISTQB-CTAL-TM_Sample-Exam-A-Answers_v1.3.1.pdf
 
 &nbsp;
+
+<p align="center">
+<img src="./001_images/image_ALTM_sampleQA1_A0_door.png" width="300">
+</p>
+
 <div style="page-break-before:always"></div>
 
 
