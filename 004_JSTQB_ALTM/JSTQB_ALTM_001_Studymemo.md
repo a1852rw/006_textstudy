@@ -17,15 +17,30 @@ JSTQBシラバス日本語版をもとに学習を進める。テスト技法の
 
 &nbsp;
   
-### その他参考資料
+### シラバス関連資料
 シラバスに関連する資料その他情報源として以下がある。
 
-- 新シラバス対応 JSTQB Advanced Level(テストマネージャ)資格試験説明会
-    - [https://youtu.be/f36Wg6IMFBA](https://youtu.be/f36Wg6IMFBA)
 - ISTQBテスト技術者資格制度 Advanced Level シラバス 日本語版 概要 テストアナリスト テクニカルテストアナリスト Version 2019.J02
     - [http://jstqb.jp/syllabus.html#syllabus_advanced_altta](http://jstqb.jp/syllabus.html#syllabus_advanced_altta)
 - ISTQBテスト技術者資格制度 Advanced Level シラバス 日本語版 テストアナリスト Version3.1. 0 リリースノート
     - [http://jstqb.jp/syllabus.html#syllabus_advanced_altta](http://jstqb.jp/syllabus.html#syllabus_advanced_altta)
+
+&nbsp;
+
+### シラバス以外の学習資料
+シラバス以外で、試験対策に直接使う資料として以下がある。
+
+- 新シラバス対応 JSTQB Advanced Level(テストマネージャ)資格試験説明会
+    - [https://youtu.be/f36Wg6IMFBA](https://youtu.be/f36Wg6IMFBA)
+- JSTQB「Advanced Level試験」過去問解説セミナーの動画と資料が無料公開―公式サイトにて
+    - [https://hrzine.jp/article/detail/550](https://hrzine.jp/article/detail/550)
+    - TAとTMの動画および配布資料がリスト化されている。学習前に目を通すことを強く推奨する。
+- JSTQB AL TM(テストマネージャー)のビジネス成果
+    - [https://note.com/toolselect/n/n8243b7aa70e4](https://note.com/toolselect/n/n8243b7aa70e4)
+    - note記事。各章ごとに内容をまとめている。無料部分だけであっても十分役に立つとのこと。
+- JSTQB AL（TM）でよく出る問題
+    - [https://qiita.com/momotar47279337/items/5ee9a34b0919b32964df](https://qiita.com/momotar47279337/items/5ee9a34b0919b32964df)
+    - 実際に受験した方が頻出問題をまとめた記事。参考になると思われる。
 
 &nbsp;
   
